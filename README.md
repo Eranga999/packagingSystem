@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f6de9686-8640-4e3e-aea3-b81ce2abb537
 # Ruchi Packaging System
 
 The **Ruchi Packaging System** is a comprehensive solution designed for **Ruchi Packaging Pvt. Ltd.** to streamline its various business processes. It manages multiple aspects of the company’s operations, including **order handling**, **resource allocation**, **employee management**, and **delivery management**. Additionally, it allows customers to place orders for packaging online, making the overall process more efficient for both the company and its clients.
@@ -57,6 +59,8 @@ preview images:
 ![217](https://github.com/user-attachments/assets/b10e5977-2720-4bed-aa61-660da3f7d0c7)
 ![33](https://github.com/user-attachments/assets/9dafde20-f7f6-4735-9e38-ea70a163b2de)
 ![7](https://github.com/user-attachments/assets/f328b00e-a7a5-4386-b3d2-0d2274ee1fc9)
+
+
 
 
    
