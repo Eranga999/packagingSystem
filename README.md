@@ -53,7 +53,8 @@ Each component integrates seamlessly to complete the workflow and ensure that th
 preview images:
 ![1](https://github.com/user-attachments/assets/2dcae98f-c149-40e3-bda6-0ae6304fa3cf)
 ![3](https://github.com/user-attachments/assets/e273988c-ea96-449f-bad9-e6c57474bd1b)
-![4](https://github.com/user-attachments/assets/03c90200-c85a-49a7-8783-05b1bf2a81fc)
+![Screenshot 2024-10-17 133425](https://github.com/user-attachments/assets/1816b2a1-61ab-4593-a96a-76fe592b23a2)
+
 ![5](https://github.com/user-attachments/assets/d42affcb-c902-4985-9d80-54d655918ab5)
 ![732](https://github.com/user-attachments/assets/e6808e1a-a04f-485a-910f-69d07a5c60b9)
 ![217](https://github.com/user-attachments/assets/b10e5977-2720-4bed-aa61-660da3f7d0c7)
