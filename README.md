@@ -45,3 +45,18 @@ Each component integrates seamlessly to complete the workflow and ensure that th
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Eranga999/packagingSystem.git
+
+
+
+preview images:
+![1](https://github.com/user-attachments/assets/2dcae98f-c149-40e3-bda6-0ae6304fa3cf)
+![3](https://github.com/user-attachments/assets/e273988c-ea96-449f-bad9-e6c57474bd1b)
+![4](https://github.com/user-attachments/assets/03c90200-c85a-49a7-8783-05b1bf2a81fc)
+![5](https://github.com/user-attachments/assets/d42affcb-c902-4985-9d80-54d655918ab5)
+![732](https://github.com/user-attachments/assets/e6808e1a-a04f-485a-910f-69d07a5c60b9)
+![217](https://github.com/user-attachments/assets/b10e5977-2720-4bed-aa61-660da3f7d0c7)
+![33](https://github.com/user-attachments/assets/9dafde20-f7f6-4735-9e38-ea70a163b2de)
+![7](https://github.com/user-attachments/assets/f328b00e-a7a5-4386-b3d2-0d2274ee1fc9)
+
+
+   
